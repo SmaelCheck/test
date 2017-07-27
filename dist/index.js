@@ -1,0 +1,1 @@
+console.log('Oui, j\'aime le javaScriipt car il est super cool comme langage de prog !');
